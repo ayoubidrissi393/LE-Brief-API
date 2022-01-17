@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(217 217 217) !important;
+}
+.banner-image{
+    background-image: url('/img/lidye-1Shk_PkNkNw-unsplash.jpg');
+    background-size: cover;
+}
+
+img{
+    width: 239px;
+    border-radius: 11px;
+}
+#categories select{
+        word-wrap: normal;
+        TEXT-ALIGN: CENTER;
+      
+        /* MARGIN-LEFT: -389%; */
+}
